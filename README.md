@@ -44,6 +44,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Mumbai and Chennai has the highest number of customers i.e. 1078 and 834 respectively out of total 4000 customers.
 - Mumbai's customers are the highest spender(i.e. 172 Million) and their choosen mode of payment were credit card.
 - Age group between 25-34 and 35-45 are the potential customers and male customers are the higher users of credit card in comparision to female.
+- Married customers use credit card more than single customers.
+- Age groups(25-34, 35-45, and 45+) customers use credit card more frequently for bills, groceries, and electronics.
+- Age group between 21-24 customers use credit card more frequently for entertainment, electronics, and apparel.
+- The Salaried IT employees are the highest end user of credit card and their average income and income utilisation % is also higher than other customers.
+- Customers are spending more during the month of september and august.
 
 
 
