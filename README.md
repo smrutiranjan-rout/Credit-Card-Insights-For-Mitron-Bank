@@ -24,14 +24,19 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Final Dashboard
 
-# Customers Demographic 
+### Customers Demographic:
 <p align="center">
     <img src='https://github.com/smrutiranjan-rout/Credit-Card-Insights-For-Mitron-Bank/blob/main/Customer%20demographics.png' width="600">
 </p>
 
-# Credit Card Insights
+### Credit Card Insights:
 <p align="center">
     <img src='https://github.com/smrutiranjan-rout/Credit-Card-Insights-For-Mitron-Bank/blob/main/CC%20Insights.png' width="600">
+</p>
+
+### Credit Card Recommendations:
+<p align="center">
+    <img src='https://github.com/smrutiranjan-rout/Credit-Card-Insights-For-Mitron-Bank/blob/main/CC%20Recommendations.png' width="600">
 </p>
 
 ## Some Important insights from the Dashboard
