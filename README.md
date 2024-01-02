@@ -4,7 +4,7 @@ Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-projec
 
 Link to [Interactive Dashboard](https://shorturl.at/zCJY1)
 
-Link to [LinkedIn Post](https://www.linkedin.com/in/srrout/)
+Link to [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7147919473310642176/)
 
 ## Problem statement
 
