@@ -36,7 +36,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ### Credit Card Recommendations:
 <p align="center">
-    <img src='https://github.com/smrutiranjan-rout/Credit-Card-Insights-For-Mitron-Bank/blob/main/CC%20Recommendations.png' width="600">
+    <img src='https://github.com/smrutiranjan-rout/Credit-Card-Insights-For-Mitron-Bank/blob/main/Credit%20Card%20Recommendations.png' width="600">
 </p>
 
 ## Some Important insights from the Dashboard
